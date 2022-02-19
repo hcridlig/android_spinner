@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP_Spinner</string>
+    
+    <string-array name="spinner_categories">
+        <item>Informatique</item>
+        <item>Boisson</item>
+        <item>Mobilier</item>
+    </string-array>
+</resources>
